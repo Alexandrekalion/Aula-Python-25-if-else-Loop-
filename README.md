@@ -54,4 +54,4 @@ Projeto de estudo. Serve como registro de pratica inicial com `if`, `else` e `wh
 
 ## Autoria
 
-Desenvolvido por Michele Santana — Kalion Tecnologia.
+Desenvolvido por Alexandre Santana dos Santos — Kalion Tecnologia.
